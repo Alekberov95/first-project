@@ -55,3 +55,7 @@ button {
 button:hover {
     background-color: #006699;
 }
+
+.testclass {
+    color: white; 
+}
